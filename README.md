@@ -212,7 +212,7 @@ footer {
       </div>
       <!-- Piratenschiff -->
       <div class="card">
-        <img src="https://placehold.co/400x300?text=Piratenschiff" alt="Piratenschiff Hüpfburg" />
+        <img src="[https://placehold.co/400x300?text=Piratenschiff](https://kiddyfun.de/media/f5/4f/d7/1614424990/Springburg%20aufblasbar%20Piratenschiff%20kaufen%20-%20F2.jpg)" alt="Piratenschiff Hüpfburg" />
         <div class="card-body">
           <h3>Piratenschiff</h3>
           <p class="price">70€ Mo–Do • 80€ Fr–So</p>
